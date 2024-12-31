@@ -1,12 +1,36 @@
-## Hello HowRU Im UnderTheWater
+# *CrocoBob station*
+> "세상은 넓고 재밌는 건 많습니다"
 
-# DEV
-<a target="_blank"><img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a>
 
+## Contact
+<a href="Mmungjun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mmungjun@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="www.linkedin.com/in/myeongjun-kim-280b4a177" target="_blank"><img src="https://img.shields.io/badge/linkdein-005AF0?style=for-the-badge&logo=inspire&logoColor=FFFFFF"/></a>
+
+
+## 🔧 DEV
+### 👍 Skilled
+<a target="_blank"><img src="https://img.shields.io/badge/unity 5-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/></a> 
+
+
+### Beginner
+
+<a target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a> 
+
+
+## ACT
+<a href="https://youtu.be/iqxqz_B3Bak?si=l0Ev5QD2g5stSrwf" target="_blank"><img src="https://img.shields.io/badge/Croco_Voice-FF0000?style=for-the-badge&logo=YouTube&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/daniel_croco01/" target="_blank"><img src="https://img.shields.io/badge/Daniel_Croco_01-FF0069?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
+
+🎙️ 21 팀 오차원 <로라라라> - 제이드 役
+<a href="(https://www.youtube.com/watch?v=UjPlhZFa-C4)" target="_blank"><img src="https://img.shields.io/badge/video-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
+
+🎙️ 22 계원예술대학교 애니메이션과 졸업작품 <고고! 탐정단> - 담임 役
+
+🎙️ 22 청강문화산업대학교 Animation Short Film 2022 <외계아빠> - 알바 役
+<a href="(https://www.youtube.com/watch?v=fz0tzQXk4P8)" target="_blank"><img src="https://img.shields.io/badge/video-FF0000?style=flat-square&logo=YouTube&logoColor=FFFFFF"/></a>
 ___
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crocobob911&show_icons=true&theme=prussian)
-
 
 
 
