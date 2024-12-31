@@ -4,7 +4,11 @@
 > "세상은 넓고 재밌는 건 많습니다"
 <br/>
 
-<a href="Mmungjun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mmungjun@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crocobob911&show_icons=true&theme=radical)
+
+<br/>
+
+<a href="Mmungjun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mmungjun@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a><br/>
 <a href="mjdaniel@cau.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mjdaniel@cau.ac.kr-117ACA?style=for-the-badge&logo=c&logoColor=FFFFFF"/></a>
 <a href="www.linkedin.com/in/myeongjun-kim-280b4a177" target="_blank"><img src="https://img.shields.io/badge/linkdein-005AF0?style=for-the-badge&logo=inspire&logoColor=FFFFFF"/></a>
 
@@ -12,17 +16,14 @@
 
 
 ## 🔧 DEV
-### *Intermediate*
+
 <a target="_blank"><img src="https://img.shields.io/badge/unity 5-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF"/></a> 
+<a target="_blank"><img src="https://img.shields.io/badge/Csharp-222222?style=for-the-badge&logo=rider&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/></a> 
-
-
-### *Debut*
-
 <a target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/></a> 
 <a target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/></a> 
 
-<br/>
+
 <br/>
 
 ## Act
