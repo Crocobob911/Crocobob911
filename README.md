@@ -3,9 +3,6 @@
 
 > "세상은 넓고 재밌는 건 많습니다"
 <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crocobob911&show_icons=true&theme=radical)
-
 <br/>
 
 <a href="Mmungjun@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mmungjun@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/></a><br/>
